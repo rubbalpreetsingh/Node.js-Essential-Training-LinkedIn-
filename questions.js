@@ -39,7 +39,7 @@ process.on("exit",()=>{
     Your Name: ${name},
     You from: ${from},
     Preferred Language: ${lang}
-    
+
     
     `);
 });
